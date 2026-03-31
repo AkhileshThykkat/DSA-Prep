@@ -1,4 +1,4 @@
-# Data Structures & Algorithms Practice — @AkhileshThykkat
+# Data Structures & Algorithms Practice 
 
 A collection of coding problem solutions organized by topic. This repository is used to track progress and maintain solutions for interview preparation.
 
